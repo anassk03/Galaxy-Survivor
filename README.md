@@ -1,5 +1,5 @@
 # 🚀 GALAXY SURVIVOR
-
+Done By ShaiK Anas Bin Malik(240181601050) and Shaik Saajid(240181601053)
 ### 🌌 A Futuristic Alien Space Survival Game
 
 Galaxy Survivor is a 2D space survival game developed using **Python and Pygame**.
